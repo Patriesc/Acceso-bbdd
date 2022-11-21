@@ -4,12 +4,7 @@ import com.toedter.calendar.JDateChooser;
 
 import javax.swing.*;
 
-/**
- * Formulario de la aplicación
- *
- * @author Santiago Faci
- * @version curso 2015-2016
- */
+
 public class Ventana {
     public JPanel panel1;
     public JTextField tfAutor;
